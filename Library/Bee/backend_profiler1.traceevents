@@ -1,0 +1,470 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1756985308340740, "dur":2311, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985308343059, "dur":45, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1756985308343113, "dur":16, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1756985308343129, "dur":344, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1756985308343516, "dur":596, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985308344112, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241531, "dur":180, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241712, "dur":105, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241817, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241826, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241844, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241847, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241858, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241860, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241870, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241872, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241880, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241882, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241892, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241894, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241902, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241904, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241914, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241943, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309241970, "dur":2834, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1756985308344671, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308344671, "dur":4528, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308349204, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1756985308349443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308369168, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1756985308371405, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1756985308371522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308371529, "dur":3641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1756985308375240, "dur":3008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO.exe" }}
+,{ "pid":12345, "tid":1, "ts":1756985308378260, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308378268, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO.exe" }}
+,{ "pid":12345, "tid":1, "ts":1756985308382287, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1756985308382406, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308382982, "dur":7469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1756985308390583, "dur":6958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308397546, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308397556, "dur":2200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308399806, "dur":5939, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308405748, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308405755, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308408886, "dur":3860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308412749, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308412755, "dur":3426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308416448, "dur":4958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308421409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308422586, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308424886, "dur":4114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308429005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308429012, "dur":5005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308434103, "dur":4201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308438311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308438321, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308442353, "dur":4624, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308446980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308446987, "dur":5997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308453028, "dur":4663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308457694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308457701, "dur":3291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308461042, "dur":3536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308464582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308464589, "dur":5551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308470184, "dur":4707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308474895, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308474931, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308476391, "dur":75975, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308552372, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308552381, "dur":1856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308554277, "dur":296983, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308851266, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985308851275, "dur":8112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985308859426, "dur":350377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985309209811, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1756985309209824, "dur":3049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1756985309212903, "dur":28591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308344287, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308344287, "dur":4794, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308349108, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1756985308349217, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308351170, "dur":600, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1756985308351775, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1756985308351837, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308352301, "dur":3429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1756985308355733, "dur":13852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1756985308369589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308369596, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1756985308371154, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1756985308371288, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308371296, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1756985308373567, "dur":56036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308429606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308429611, "dur":12570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308442237, "dur":4762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308447003, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308447009, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308449617, "dur":5319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308454940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308454948, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308456481, "dur":4443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308460928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308460936, "dur":1955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308462931, "dur":6500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308469444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308469456, "dur":3147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308472648, "dur":101006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308573659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308573671, "dur":7658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308581367, "dur":119440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308700813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308700823, "dur":5203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308706069, "dur":46869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308752943, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308752953, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308755285, "dur":233992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308989283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1756985308989292, "dur":3897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1756985308993226, "dur":248272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308344714, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308344715, "dur":4370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308349108, "dur":40388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1756985308389499, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308390869, "dur":1408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1756985308392335, "dur":6633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308398972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308398978, "dur":3370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308402397, "dur":6368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308408769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308408776, "dur":1462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308410278, "dur":3846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308414127, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308414134, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308415734, "dur":5146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308420883, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308420889, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308422799, "dur":4706, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308427509, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308427516, "dur":1307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308428857, "dur":7059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308435921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308435952, "dur":5632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308441626, "dur":4499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308446128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308446136, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308447312, "dur":3555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308450871, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308450878, "dur":3361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308454275, "dur":3705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308458005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308458011, "dur":2539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308460593, "dur":11385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308471981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308471990, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308475538, "dur":102616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308578160, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308578171, "dur":7075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308585291, "dur":209210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308794507, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308794545, "dur":3933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308798523, "dur":138607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308937133, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985308937141, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985308940101, "dur":299208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985309239316, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1756985309239327, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1756985309241460, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":3, "ts":1756985309241463, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308345174, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308345174, "dur":4078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308349256, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1756985308349379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308361015, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1756985308364890, "dur":26509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1756985308391403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308391474, "dur":3682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1756985308395230, "dur":4484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308399717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308399724, "dur":6541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308406560, "dur":4783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308411347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308411355, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308413303, "dur":5143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308418585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308418594, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308420514, "dur":4575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308425092, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308425100, "dur":3265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308428404, "dur":4010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308432418, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308432424, "dur":6129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308438597, "dur":4668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308443268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308443276, "dur":1199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308444509, "dur":4431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308448943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308448948, "dur":4194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308453211, "dur":4761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308457974, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308457980, "dur":5332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308463351, "dur":5654, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308469008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308469014, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308471595, "dur":4068, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308475666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308475674, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308478114, "dur":101601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308579720, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308579756, "dur":5368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308585172, "dur":126367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308711543, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308711579, "dur":17316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308728931, "dur":48180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308777117, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308777133, "dur":3321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308780490, "dur":59713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308840209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308840219, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308841727, "dur":102541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308944273, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308944283, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1756985308946901, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1756985308946966, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308947046, "dur":1544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1756985308948624, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1756985308948660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308948666, "dur":20978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1756985308969682, "dur":10751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1756985308980437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308980445, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1756985308982939, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1756985308983084, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1756985308983091, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1756985308984668, "dur":256860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308344530, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308344532, "dur":4674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308349212, "dur":12978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1756985308362195, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308362210, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1756985308363682, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1756985308363818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308363876, "dur":3375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1756985308367307, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1756985308367441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308367795, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1756985308369892, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1756985308370022, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308370029, "dur":2879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1756985308372954, "dur":27251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308400208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308400284, "dur":6485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308406838, "dur":4917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308411758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308411787, "dur":2507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308414351, "dur":181080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308595437, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308595447, "dur":13058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308608562, "dur":170908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308779475, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308779485, "dur":6245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308785765, "dur":151092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308936863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985308936873, "dur":3926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985308940837, "dur":139692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985309080535, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1756985309080544, "dur":2873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1756985309083457, "dur":158035, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308344395, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308344396, "dur":4789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308349196, "dur":13341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1756985308362541, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308362555, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1756985308364256, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1756985308364364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308367880, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1756985308369562, "dur":14437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1756985308384003, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308384014, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1756985308386784, "dur":4750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308391537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308391602, "dur":1887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308393544, "dur":4731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308398278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308398284, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308400889, "dur":4194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308405089, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308405101, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308407456, "dur":4643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308412102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308412108, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308414551, "dur":5973, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308420527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308420536, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308422667, "dur":3875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308426547, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308426556, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308428452, "dur":5076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308433532, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308433542, "dur":6909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308440499, "dur":4789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308445291, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308445323, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308446637, "dur":3559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308450199, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308450206, "dur":3523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308453767, "dur":3899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308457669, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308457683, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308459686, "dur":3773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308463462, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308463470, "dur":2299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308465827, "dur":6630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308472460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308472468, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308474464, "dur":129314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308603783, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308603793, "dur":10168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308613999, "dur":96966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308710971, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308710980, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308713793, "dur":117127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308830928, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308830939, "dur":4829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308835807, "dur":150882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308986693, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1756985308986702, "dur":3604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1756985308990341, "dur":251149, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308344880, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308344881, "dur":4376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308349258, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1756985308349396, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308368577, "dur":2865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1756985308371495, "dur":17902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308389401, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308389973, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308391686, "dur":5925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308397615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308397621, "dur":2831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308400504, "dur":4592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308405098, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308405103, "dur":2132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308407294, "dur":4189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308411486, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308411493, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308413683, "dur":10245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308423931, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308423937, "dur":3338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308427318, "dur":4311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308431634, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308431643, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308434044, "dur":4855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308438902, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308438910, "dur":3902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308442851, "dur":6051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308448906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308448913, "dur":5263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308454214, "dur":3734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308457952, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308457957, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308460679, "dur":3912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308464594, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308464600, "dur":5849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308470491, "dur":5230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308475724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308475730, "dur":2444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308478213, "dur":262870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308741089, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985308741100, "dur":4440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985308745581, "dur":307980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985309053567, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1756985309053577, "dur":2053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1756985309055668, "dur":185828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308344846, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308344847, "dur":4319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308349174, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1756985308349369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308352656, "dur":3463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1756985308356622, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1756985308356753, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308357929, "dur":1685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1756985308359660, "dur":12310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1756985308371973, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308371984, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1756985308373874, "dur":5395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1756985308379274, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308379281, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1756985308382393, "dur":6501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308388927, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308389907, "dur":1759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308391750, "dur":6251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308398026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308398032, "dur":3095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308401190, "dur":4240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308405434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308405463, "dur":2883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308408394, "dur":3984, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308412381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308412387, "dur":4655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308417097, "dur":6344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308423444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308423452, "dur":4169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308427660, "dur":4733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308432397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308432405, "dur":8444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308441039, "dur":6694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308447736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308447743, "dur":4960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308452746, "dur":4014, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308456764, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308456772, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308457970, "dur":3747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308461721, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308461728, "dur":2818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308464585, "dur":4345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308468936, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308468946, "dur":2407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308471394, "dur":4498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308475895, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308475900, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308478772, "dur":151006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308629784, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308629794, "dur":26314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308656153, "dur":96823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308752980, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308752986, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308755590, "dur":192073, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308947666, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308947674, "dur":8431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1756985308956807, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308956860, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308956867, "dur":3571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308960483, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308960523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308960530, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308963081, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308963121, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308963128, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308965167, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1756985308965320, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308965327, "dur":4549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1756985308969908, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308969967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308969975, "dur":3522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308973556, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308973596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308973604, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308975206, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308975242, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308975249, "dur":2556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308977847, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1756985308977884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308977891, "dur":986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1756985308978914, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308978963, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308978969, "dur":1253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1756985308980260, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1756985308980296, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308980302, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1756985308982230, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308982279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308982286, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1756985308984097, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1756985308984234, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1756985308984241, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kagan/Desktop/OYUNLAR/XOX 3 PRO/XOX 3PRO_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1756985308985160, "dur":256364, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1756985309246362, "dur":1418, "ph":"X", "name": "ProfilerWriteOutput" }
+,
